@@ -1,4 +1,4 @@
-Exploring dithering: batch convert images (image magic)
+macOS automatic screenshots from he command line
 
 # Creative Coding / Visual Experiments
 ## an ongoing coding/research seminar
